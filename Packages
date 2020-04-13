@@ -1,0 +1,13 @@
+Package: com.bubraksher.olivepatch
+Version: 2.0.6
+Architecture: iphoneos-arm
+Maintainer: Bubrak & Shahik <sbubraks@gmail.com>
+Filename: Olive Patch.deb
+Size: 3996 
+MD5sum: 7eb243e6b6b3aa9a479c43f0b1a7f83b
+SHA1:  ae84fed7a170afad05c6c9e5d9c54445437e84ee
+SHA256: c871ac136fd21016768ffa14c4bd03a335bc5ac014c27874f1a6fb388daa6a6c
+Section: Tweaks
+Description: A test tweak for my repo
+Author: Bubrak & Shahik <sbubraks@gmail.com>
+Name: Olive Patch
